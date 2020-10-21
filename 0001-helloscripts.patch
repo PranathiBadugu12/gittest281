@@ -1,0 +1,22 @@
+From e84ab0f934cdc5a84d0f16a64f9f85402f84a8ef Mon Sep 17 00:00:00 2001
+From: PranathiBadugu12 <pranathi12399@gmail.com>
+Date: Tue, 20 Oct 2020 13:52:01 +0530
+Subject: [PATCH] helloscripts
+
+---
+ hello.sh | 3 +++
+ 1 file changed, 3 insertions(+)
+ create mode 100644 hello.sh
+
+diff --git a/hello.sh b/hello.sh
+new file mode 100644
+index 0000000..81344f9
+--- /dev/null
++++ b/hello.sh
+@@ -0,0 +1,3 @@
++#! /bin/bash
++echo "hello"
++
+-- 
+2.17.1
+
