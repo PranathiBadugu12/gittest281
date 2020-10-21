@@ -1,0 +1,21 @@
+From 5f7baaf1886bd4dfa6abe174add626430dcf3b25 Mon Sep 17 00:00:00 2001
+From: PranathiBadugu12 <pranathi12399@gmail.com>
+Date: Wed, 21 Oct 2020 10:23:10 +0530
+Subject: [PATCH] Changed by gii
+
+---
+ hello.sh | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/hello.sh b/hello.sh
+index 0e7bfb0..d285799 100644
+--- a/hello.sh
++++ b/hello.sh
+@@ -1,3 +1,3 @@
+ #! /bin/bash
+ echo "hello worls"
+-
++echo "ho"
+-- 
+2.17.1
+
